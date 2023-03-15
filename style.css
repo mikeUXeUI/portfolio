@@ -133,6 +133,12 @@ body {
         padding: 10% 5% 0;
     }
     
+    .navbar__menu {
+        display: flex;
+        gap: 60px;
+        justify-content: center;
+    }
+    
     .apresentacao {
         flex-direction: column-reverse;
         padding: 8% 5%;
