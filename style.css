@@ -132,10 +132,8 @@ body {
     .navbar {
         padding: 10% 5% 0;
     }
-    
+
     .navbar__menu {
-        display: flex;
-        gap: 60px;
         justify-content: space-between;
     }
     
